@@ -1,6 +1,6 @@
 # verilog-A Modeling : A 3-Bit Self-Rectifying Resistive Memory Physics-based Compact Model 
 
-# Code - 0에서 1.7V(positive)
+# Code : 0V ~ 1.7V(positive)
 ```
 // VerilogA for MJH, RR1, veriloga
 
@@ -383,7 +383,7 @@ module RR1(p,n);
 		end
 endmodule
 ```
-# Code - 0에서 -1V(negative)
+# Code : -1V ~ 0V(negative)
 ```
 // VerilogA for MJH, RR1, veriloga
 
